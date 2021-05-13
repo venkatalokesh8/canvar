@@ -1,0 +1,34 @@
+.verticalCenter {
+top :50%
+}
+
+.projectPageText {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: monospace;
+}
+
+.pageOne {
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    font-family: monospace;
+}
+
+.pt-10 {
+    padding-top: 50px;
+}
+
+.ff {
+    font-family: monospace;
+}
+
+.pd-15{
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.row {
+    margin-left: 0px ;
+    margin-right: 0px;
+}

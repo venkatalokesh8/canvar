@@ -1,0 +1,21 @@
+w-100 {
+    width: 100%;
+}
+
+.pt-4 {
+    padding-top: 15px;
+}
+
+
+
+.colorp-w {
+    color: white !important;
+}
+
+.navbar-light {
+    color: white !important;
+}
+
+.navbar-light .navbar-toggler {
+    background-color: darkcyan;
+}

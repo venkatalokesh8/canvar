@@ -1,0 +1,107 @@
+#root {
+  background-color: black;
+}
+.centerd{
+  text-align: center;
+}
+
+.pt-50{
+  padding-top: 50px;
+}
+
+.widthimg{
+  width: 36%  !important;
+}
+
+.btn-outline-info{
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+  border-radius: 10px !important;
+  width:150px
+}
+
+#mySidenav a {
+  position: fixed;
+  left: -80px;
+  transition: 0.3s;
+  padding: 8px;
+  width: 120px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+  left: 0;
+}
+
+#about {
+  top: 20px;
+  background-color: #04AA6D;
+}
+
+#blog {
+  float: left;
+  top: 80px;
+  background-color: #2196F3;
+}
+
+#projects {
+  float: left;
+  top: 140px;
+  background-color: #f44336;
+}
+
+#contact {
+  float: left;
+  top: 200px;
+  background-color: #555
+}
+
+#mySidenav > a > .sideicon{ 
+float: right;
+margin-top: 6px;
+}
+
+.w-26 {
+  width: 26% !important;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.imageSize{
+  height: 106px;
+  width: 96px;
+}
+
+.imageSizeconf{
+  height: 46px;
+  width: 144px;
+}
+
+.h-180{
+  height: 180px;
+}
+
+.pt-20{
+  padding-top: 20px;
+}
+
+.color-w{
+  color: #999999;
+}
+
+.color-white{
+  color: white;
+}
+
+.inline{
+  display: inline;
+}
+
+.pr-10 {
+  padding-right: 10px;
+}
